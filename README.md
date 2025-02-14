@@ -1,8 +1,8 @@
 > [!IMPORTANT]
 >
-> This repo is for whitepaper demonstration purposes.
+> This repo is for purposes of demonstrating "Runtime" as discussed in our [whitepaper](https://dotenvx.com/dotenvx.pdf)
 >
-> [Read whitepaper](https://dotenvx.com/dotenvx.pdf)
+> runtime-example
 
 ## Usage
 
